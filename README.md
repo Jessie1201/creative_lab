@@ -1,2 +1,2 @@
-# WebGL_LearningPractice
-Following https://webglfundamentals.org to learn WebGL from scratch.
+# My creative coding lab
+The learning process and the components built on the way. Primarily p5.js and WebGL.
