@@ -1,2 +1,5 @@
 # My creative coding lab
-The learning process and the components built on the way. Primarily p5.js and WebGL.
+
+Some inspirational sketches of creative coding pieces created by [Jessie](https://jessiezheng.world/).
+
+The lab is mainly based on static data, aiming to explore the potentials of drawing appealing art via code.
