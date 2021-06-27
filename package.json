@@ -1,0 +1,16 @@
+{
+  "name": "creative-lab",
+  "version": "0.0.0",
+  "description": "Jessie's cretive workstation",
+  "scripts": {
+    "start": "es-dev-server --app-index index.html --node-resolve --watch --port 8088"
+  },
+  "author": "Jiaqi (Jessie) Zheng",
+  "license": "",
+  "dependencies": {
+    "three": "^0.125.1"
+  },
+  "devDependencies": {
+    "es-dev-server": "^1.46.1"
+  }
+}

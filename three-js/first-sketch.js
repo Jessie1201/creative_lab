@@ -1,23 +1,6 @@
-<!DOCTYPE html>
-<html>
+import * as THREE from 'three';
 
-<head>
-    <meta charset="utf-8">
-    <title>First sketch</title>
-    <style>
-        body {
-            margin: 0;
-        }
-    </style>
-    <script src="lib/three.min.js"></script>
-</head>
-
-<body>
-</body>
-
-</html>
-<script>
-    let scene, camera, renderer;
+let scene, camera, renderer;
 
     // set up the environment - 
     // initiallize scene, camera, objects and renderer
@@ -41,6 +24,7 @@
 
     // main animation loop - calls 50-60 in a second.
     let mainLoop = function () {
+        console.log("Hello");
         renderer.render(scene, camera);
         requestAnimationFrame(mainLoop);
     };
@@ -48,4 +32,5 @@
     ///////////////////////////////////////////////
     init();
     mainLoop();
-</script>
+
+    let geometry = new THREE.Scene
