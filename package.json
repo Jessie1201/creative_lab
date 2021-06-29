@@ -11,6 +11,7 @@
     "three": "^0.125.1"
   },
   "devDependencies": {
+    "dat.gui": "^0.7.7",
     "es-dev-server": "^1.46.1"
   }
 }
